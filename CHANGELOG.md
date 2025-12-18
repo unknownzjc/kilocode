@@ -1,5 +1,11 @@
 # kilo-code
 
+## 4.139.1
+
+### Patch Changes
+
+- [#4228](https://github.com/Kilo-Org/kilocode/pull/4228) [`a128228`](https://github.com/Kilo-Org/kilocode/commit/a128228b3649924ad1fd88d040a79c6963a250bd) Thanks [@lambertjosh](https://github.com/lambertjosh)! - Change the default value of auto-approval for reading outside workspace to false
+
 ## 4.139.0
 
 ### Minor Changes
